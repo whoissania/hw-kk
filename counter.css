@@ -1,0 +1,17 @@
+#male-btn, #female-btn, #decrease-btn,#reset{
+    height: 50px;
+    width: 60px;
+    font-size: 15px;
+    background-color:brown;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+}
